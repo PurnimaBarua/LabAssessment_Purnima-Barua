@@ -1,0 +1,1 @@
+Git commit is used to save a snapshot of changes in a Git repository. It creates a checkpoint in the project history so progress can be tracked, collaborate safely and roll back if needed.
